@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<artist>
+  <item>
+    <name>Vincent Van Gogh</name>
+    <nationality>Dutch</nationality>
+    <movement>Post Impressionism </movement>
+    <birthdate>30th March 1853</birthdate>
+  </item>
+  <item>
+    <name>Paul Klee </name>
+    <nationality>Swiss </nationality>
+    <movement>Abstract Expressionism </movement>
+    <birthdate>18th December 1879</birthdate>
+  </item>
+  <item>
+    <name>Max Ernst </name>
+    <nationality>German </nationality>
+    <movement>Surrealism </movement>
+    <birthdate>2nd April 1891</birthdate>
+  </item>
+</artist>
