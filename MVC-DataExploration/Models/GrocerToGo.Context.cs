@@ -25,6 +25,5 @@ namespace MVC_DataExploration.Models
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Product> Products { get; set; }
     }
 }
