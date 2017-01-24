@@ -140,6 +140,7 @@
   <ItemGroup>
     <Content Include="App_Data\artists.xml" />
     <Content Include="App_Data\grocertogo.mdb" />
+    <Content Include="App_Data\grocertogoMDF.mdf" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -175,6 +176,7 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Customer\Index.cshtml" />
+    <Content Include="Views\Customer\Create.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

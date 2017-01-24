@@ -9,7 +9,10 @@ namespace MVC_DataExploration.Models
     public class MyDbContext : DbContext
     {
         //Constructor
-        public MyDbContext() : base("Grocer-ClassFirst") { }
+        public MyDbContext() : base("grocertogoMDF")
+        {
+
+        }
 
         // Model Collections
         public DbSet<Customer> Customers { get; set; }
